@@ -1,0 +1,3 @@
+Running Game - SRPG
+
+/Applications/love.app/Contents/MacOS/love /Users/ax/dev/lua/SRPG/
